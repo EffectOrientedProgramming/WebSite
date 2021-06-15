@@ -6,9 +6,7 @@ weight: 20
 This shows the table of contents for the completed book.
 
 The bold & italicized atoms in the table of contents below are those included
-in the [Leanpub Free Sample](https://leanpub.com/AtomicKotlin). The [Stepik
-Free Sample](https://stepik.org/course/19590) includes beginning portions of
-*all* non-bold & italicized atoms.
+in the [Leanpub Free Sample](https://leanpub.com/AtomicKotlin).
 
 ##  Section I: Programming Basics
 -   ***Introduction***
