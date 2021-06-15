@@ -1,6 +1,6 @@
-# The Summer Tech Forum (Hugo Source)
+# The Effect-Oriented Programming Web Site (Hugo Source)
 
-Hugo Static Site for the [Summer Tech Forum Conference](https://www.SummerTechForum.com).
+Hugo Static Site for [Effect-Oriented Programming](https://www.EffectOrientedProgramming.com).
 
 The theme supports the site on phones as well as computers and tablets.
 
@@ -16,29 +16,20 @@ Everything is in markdown so it's easy to add/edit content. If you look at the
 ## Setup
 
 ```bash
-git clone https://github.com/BruceEckel/summertechforum-hugo
-# If you want to refresh the theme from its repository:
-cd summertechforum-hugo
-rm -rf themes
-# DOWNLOAD the zip file (don't clone it) from https://github.com/BruceEckel/hugo-material-banner
-# Unzip it to create themes/hugo-material-banner off of summertechforum-hugo
-# (this avoids cloning and submodule problems)
+git clone --recurse https://github.com/EffectOrientedProgramming/WebSite
 ```
 
-## Development
+The `--recurse` flag is necessary because the theme https://github.com/BruceEckel/hugo-material-banner
+is included in the `themes` subdirectory as a *git submodule* (this is required to run a Hugo site on Netlify).
+`--recurse` forces the files in the submodule to be cloned to your local machine, so you can run the site locally.
 
-```bash
-hugo server
+Because it is a submodule, the theme is *not* automatically updated when the source material
+changes. To update it, run:
+
+```
+git submodule update --remote --merge
 ```
 
-## Build
+- `local.bat` is a convenience for starting a local server and opening a local web window.
 
-```bash
-hugo server
-```
-
-The build output will be in the `public` folder.
-
-Deploys automatically by Netlify whenever the Github repo is updated.
-
-`local.bat` is a convenience for starting a local server and opening a local web window.
+- The live site is deployed automatically by Netlify whenever the Github repo is updated.
