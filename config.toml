@@ -1,7 +1,7 @@
 baseurl = "https://www.EffectOrientedProgramming.com"
 languageCode = "en-us"
 title = "Effect-Oriented Programming"
-theme = "hugo-material-docs"
+theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
