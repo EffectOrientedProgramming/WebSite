@@ -1,6 +1,6 @@
 # The Effect-Oriented Programming Web Site (Hugo Source)
 
-Hugo Static Site for [Effect-Oriented Programming](https://github.com/EffectOrientedProgramming/WebSite/blob/main/README.md).
+Hugo Static Site for [Effect-Oriented Programming](https://github.com/EffectOrientedProgramming/WebSite).
 
 The theme supports the site on phones as well as computers and tablets.
 
