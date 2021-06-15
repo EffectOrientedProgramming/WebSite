@@ -8,7 +8,7 @@ platforms:
 
 ### Leanpub
 
-> [Atomic Kotlin on Leanpub](https://leanpub.com/AtomicKotlin)
+> [Effect-Oriented Programming on Leanpub](https://leanpub.com/AtomicKotlin)
 
 - PDF
 - EPUB (for iPad, iOS, Google Play Books, other EPUB readers)
@@ -16,9 +16,3 @@ platforms:
 - Read online directly through the Leanpub site.
 
 Includes an extensive free sample in all formats.
-
-### Stepik
-
-[The Stepik Platform](https://stepik.org/course/15001) provides a web-based
-experience that allows you to modify and run the book's examples in-place.
-Includes an [extensive free sample](https://stepik.org/course/19590).

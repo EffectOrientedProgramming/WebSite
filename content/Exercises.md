@@ -3,7 +3,7 @@ title: Exercises
 weight: 70
 ---
 
-Each atom in *Atomic Kotlin* is accompanied by several exercises to cement your
+Each atom in *Effect-Oriented Programming* is accompanied by several exercises to cement your
 understanding of the material. We recommend solving the exercises directly
 after reading an atom. All exercises can be checked automatically within
 IntelliJ IDEA, and you can see your progress while solving them.
@@ -14,7 +14,7 @@ following these tutorials:
 1. [Install IntelliJ IDEA and the EduTools
 Plugin](https://www.jetbrains.com/help/education/install-edutools-plugin.html).
 
-2. [Open the Atomic Kotlin course and solve the
+2. [Open the Effect-Oriented Programming course and solve the
 exercises](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Atomic%20Kotlin).
 
 In the EduTools course, you'll find solutions for all exercises. If you're

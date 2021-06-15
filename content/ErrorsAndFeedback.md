@@ -15,7 +15,7 @@ Please check the [Issues](https://github.com/BruceEckel/AtomicKotlinExamples/iss
 to see if your error has already been reported.
 
 Please report all errors in the book's prose *or* in its examples as
-***issues*** in the [Atomic Kotlin Examples Github Repository](https://github.com/BruceEckel/AtomicKotlinExamples/issues).
+***issues*** in the [Effect-Oriented Programming Examples Github Repository](https://github.com/BruceEckel/AtomicKotlinExamples/issues).
 
 ## Errors in the Exercises (The Course)
 
